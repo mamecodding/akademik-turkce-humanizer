@@ -1,0 +1,29 @@
+{
+  "clean_targets": 3638,
+  "accepted": 2967,
+  "rejected": 671,
+  "accept_rate": 0.8156,
+  "train": 2673,
+  "validation": 294,
+  "accepted_hard_preservation": 2967,
+  "semantic_mean": 0.9862,
+  "semantic_min": 0.9307,
+  "length_mean": 0.949,
+  "surface_mean": 0.4312,
+  "field_distribution": {
+    "Sosyal_Bilimler": 577,
+    "Fen_Bilimleri": 528,
+    "Muhendislik_Teknoloji": 685,
+    "Saglik_Bilimleri": 615,
+    "Egitim_Beseri": 562
+  },
+  "reject_reasons": {
+    "placeholder_ok": 330,
+    "number_ok": 372,
+    "citation_ok": 134,
+    "length_ok": 307,
+    "sentence_ok": 58,
+    "semantic_ok": 37,
+    "useful_change": 4
+  }
+}
