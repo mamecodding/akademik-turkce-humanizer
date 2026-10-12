@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    {"block": 1, "input_words": 513, "output_words": 513, "length_ratio": 1.0, "number_ok": true, "citation_ok": true, "surface": 0.9995},
+    {"block": 2, "input_words": 557, "output_words": 557, "length_ratio": 1.0, "number_ok": true, "citation_ok": true, "surface": 1.0},
+    {"block": 3, "input_words": 383, "output_words": 382, "length_ratio": 0.9974, "number_ok": true, "citation_ok": true, "surface": 0.9853}
+  ],
+  "final": {
+    "input_words": 1453,
+    "output_words": 1452,
+    "length_ratio": 0.9993,
+    "number_ok": true,
+    "citation_ok": true,
+    "surface": 0.996
+  }
+}
