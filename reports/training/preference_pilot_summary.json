@@ -1,0 +1,24 @@
+{
+  "train_examples": 40,
+  "validation_examples": 10,
+  "epochs": 2,
+  "optimizer_steps": 20,
+  "learning_rate": 0.00005,
+  "beta": 4.0,
+  "sft_weight": 0.2,
+  "before": {
+    "accuracy": 0.0,
+    "mean_margin": -0.8673910140991211,
+    "median_margin": -0.8141090273857117
+  },
+  "after": {
+    "accuracy": 1.0,
+    "mean_margin": 1.0205636739730835,
+    "median_margin": 1.0217658877372742
+  },
+  "history": [
+    {"epoch": 1, "loss": 2.7285690397024154, "margin": -0.5961812831461429},
+    {"epoch": 2, "loss": 0.5622205935418606, "margin": 1.1163567140698434}
+  ],
+  "note": "Reference-free pairwise preference pilot; not formal DPO."
+}
