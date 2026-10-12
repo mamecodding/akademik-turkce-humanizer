@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Models / checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoint-*/
+final_adapter/
+adapter_model.*
+
+# Large datasets / corpus
+*.parquet
+*.arrow
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Local data and outputs
+data/
+corpus/
+models/
+checkpoints/
+outputs/
+artifacts/
+
+# Colab / Drive-local material
+gdrive_real/
+drive/
+
+# Logs
+*.log
+wandb/
+runs/
