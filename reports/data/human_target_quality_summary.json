@@ -1,0 +1,12 @@
+{
+  "input_total": 5000,
+  "clean": 3638,
+  "suspicious": 1001,
+  "excluded": 361,
+  "clean_ratio": 0.7276,
+  "suspicious_ratio": 0.2002,
+  "excluded_ratio": 0.0722,
+  "duplicate_unique_texts": 0,
+  "duplicate_extra_rows": 0,
+  "source_note": "Summary copied from exported project report; original Drive path intentionally omitted from repository."
+}
