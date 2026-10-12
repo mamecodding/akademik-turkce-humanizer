@@ -1,0 +1,14 @@
+{
+  "base_model": "Qwen/Qwen2.5-14B-Instruct",
+  "train_examples": 2673,
+  "validation_examples": 294,
+  "epochs": 1,
+  "effective_batch_size": 8,
+  "optimizer_steps": 335,
+  "warmup_steps": 16,
+  "learning_rate": 0.0001,
+  "training_minutes": 53.78,
+  "train_loss": 0.7128761284386934,
+  "eval_loss": 0.6764428615570068,
+  "final_adapter_drive_path": "34_Final_Qwen2_5_14B_Humanizer_SFT/final_adapter"
+}
