@@ -1,0 +1,4 @@
+sample_id,reviewer_id,missing_protected_item,local_edit_feasible,new_information_added,information_removed,bindings_preserved,semantic_scope_changed,naturalness,edit_value,acceptable_as_is,error_span,notes
+real_block_01,,,,,,,,,,,,
+real_block_02,,,,,,,,,,,,
+real_block_03,,,,,,,,,,,,
