@@ -1,0 +1,18 @@
+{
+  "total": 20,
+  "hard_preservation": 19,
+  "hard_preservation_rate": 0.95,
+  "overall_pass": 15,
+  "overall_pass_rate": 0.75,
+  "retry_count": 2,
+  "fail_reasons": {
+    "useful_change": 1,
+    "sentence_ok": 2,
+    "length_ok": 2,
+    "placeholder_ok": 1,
+    "number_ok": 1,
+    "citation_ok": 1
+  },
+  "hard_gate_pass": true,
+  "overall_gate_pass": false
+}
